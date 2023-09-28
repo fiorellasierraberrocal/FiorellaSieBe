@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FiorellaSieBe
 - 👀 I’m interested in ...learning python, Java and C++
 - 🌱 I’m currently learning ...C++
-- 💞️ I’m looking to collaborate on ...ramdom projects for recipies. 
+- 💞️ I’m looking to collaborate on ...ramdom projects.
 - 📫 How to reach me ...via GITHUB 
 
 <!---
